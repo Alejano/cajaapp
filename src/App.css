@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -36,3 +37,39 @@
     transform: rotate(360deg);
   }
 }
+
+.headercaja{
+  margin-top: 6% !important;
+}
+.logo{
+  width: 400px;
+    margin-left: 20%;
+  }
+  .carita{
+    margin-top: 39px;
+  }
+  .containerspace{
+    width: 150px;
+    height: 150px;
+    margin-right: 150px;  
+    text-align: -webkit-center;
+  }
+  
+  .caritacontainer{
+    background: grey;
+    border-radius: 150px;
+    width: 100px;
+    height: 100px;
+  }
+  .gridCarita{
+    text-align: -webkit-right;
+  }
+  .titleCaja {
+    color: #47525E;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    width: 326px;
+    text-align: center;
+  }
